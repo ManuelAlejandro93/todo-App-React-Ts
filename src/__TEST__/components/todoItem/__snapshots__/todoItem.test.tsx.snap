@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <TodoItem> Crear un snapshot 1`] = `
+<div>
+  <li
+    class="list-group-item d-flex justify-content-between"
+  >
+    <span
+      class="btn btn-primary "
+    >
+      Todo para probar todoItem
+    </span>
+    <button
+      class="btn btn-danger"
+    >
+      Eliminar
+    </button>
+  </li>
+</div>
+`;

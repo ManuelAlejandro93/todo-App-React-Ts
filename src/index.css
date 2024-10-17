@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: hsl(204, 84%, 93%);
+}
+
+.custom-background {
+  background-color: hsl(204, 84%, 73%);
+}

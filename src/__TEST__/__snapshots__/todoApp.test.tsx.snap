@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente principal <TodoApp> Crear un snapshot 1`] = `
+<div>
+  <h1>
+    TODO App: 
+    1
+     
+    <small>
+      Pendientes: 
+      1
+    </small>
+  </h1>
+  <hr />
+  <div
+    class="row"
+  >
+    <div
+      class="col-7"
+    >
+      <ul
+        class="list-group"
+      >
+        <li
+          class="list-group-item d-flex justify-content-between"
+        >
+          <span
+            class="btn btn-primary "
+          >
+            Organiza tus tareas.
+          </span>
+          <button
+            class="btn btn-danger"
+          >
+            Eliminar
+          </button>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="col-5"
+    >
+      <h4>
+        Agregar TODO
+      </h4>
+      <hr />
+      <form>
+        <input
+          class="form-control"
+          placeholder="¿Qué hay que hacer?"
+          type="text"
+          value=""
+        />
+        <button
+          class="btn btn-outline-primary mt-2"
+          type="submit"
+        >
+          Agregar
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Pruebas en el componente principal <TodoApp> Se debe ingresar al input el valor "morder a la vaca" 1`] = `
+<div>
+  <h1>
+    TODO App: 
+    1
+     
+    <small>
+      Pendientes: 
+      1
+    </small>
+  </h1>
+  <hr />
+  <div
+    class="row"
+  >
+    <div
+      class="col-7"
+    >
+      <ul
+        class="list-group"
+      >
+        <li
+          class="list-group-item d-flex justify-content-between"
+        >
+          <span
+            class="btn btn-primary "
+          >
+            Organiza tus tareas.
+          </span>
+          <button
+            class="btn btn-danger"
+          >
+            Eliminar
+          </button>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="col-5"
+    >
+      <h4>
+        Agregar TODO
+      </h4>
+      <hr />
+      <form>
+        <input
+          class="form-control"
+          placeholder="¿Qué hay que hacer?"
+          type="text"
+          value=""
+        />
+        <button
+          class="btn btn-outline-primary mt-2"
+          type="submit"
+        >
+          Agregar
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;
